@@ -1,0 +1,14 @@
+syntax: glob
+bin/Debug/kargerMinCut.txt
+bin/Debug/nunit.framework.dll
+bin/Debug/nunit.framework.xml
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/Mincut.csproj.FileListAbsolute.txt
+obj/Debug/Mincut.csprojResolveAssemblyReference.cache
+obj/Debug/Mincut.dll
+obj/Debug/Mincut.pdb
+obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+bin/Debug/Mincut.pdb
+bin/Debug/Mincut.dll
